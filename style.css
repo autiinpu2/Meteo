@@ -1,0 +1,49 @@
+body { background-color : #2cd1ef; }
+        .nuage {
+            position: relative;
+            width: 360px;
+            height: 200px;
+        }
+
+        
+        .cercle {
+            position: absolute;
+            background-color: #e0f7fa; 
+            border-radius: 50%;
+            box-shadow: -10px 10px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .cercle1 {
+            width: 140px;
+            height: 140px;
+            left: 80px;
+            top: 40px;
+        }
+
+        .cercle2 {
+            width: 200px;
+            height: 200px;
+            left: 120px;
+            top: 0px;
+        }
+
+        .cercle3 {
+            width: 160px;
+            height: 160px;
+            left: 240px;
+            top: 40px;
+        }
+
+        .cercle4 {
+            width: 100px;
+            height: 100px;
+            left: 20px;
+            top: 70px;
+        }
+
+        .cercle5 {
+            width: 120px;
+            height: 120px;
+            left: 180px;
+            top: 80px;
+        }
